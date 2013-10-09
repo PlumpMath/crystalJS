@@ -1,0 +1,11 @@
+form {
+  background: pink;
+  margin: 3em auto;
+  display: block;
+  padding: 2em;
+  width: 200px;
+}
+
+.jewels {
+  background-color: green;
+}
